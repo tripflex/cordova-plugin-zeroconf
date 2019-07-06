@@ -1,0 +1,9 @@
+allprojects {
+    repositories {
+        jcenter()
+        maven { url "https://jitpack.io" }
+    }
+}
+dependencies {
+    implementation 'com.github.tripflex:RxDNSSD:master-SNAPSHOT'
+}
