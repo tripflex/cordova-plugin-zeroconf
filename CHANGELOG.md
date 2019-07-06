@@ -16,7 +16,6 @@
 
 - [Android] implementing dnssd from [andriydruk/RxDNSSD](https://github.com/andriydruk/RxDNSSD)
 - [Android] dropping jmdns
-
 ## [1.3.3] - 2018-04-13
 
 - [Android] updating JmDNS dependency to 3.5.4
